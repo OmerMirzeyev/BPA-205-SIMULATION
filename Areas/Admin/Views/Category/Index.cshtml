@@ -1,0 +1,66 @@
+﻿@model List<Product>
+
+
+<div>
+    <a class="btn btn-primary" asp-controller="Product" asp-action="Create">Add Product</a>
+    <table class="table">
+        <thead class="thead-dark">
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Name</th>
+                <th scope="col">Price</th>
+                <th scope="col">Image</th>
+                <th scope="col">Category Name</th>
+                <th scope="col">Delete Status</th>
+                <th colspan="2">Activities</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (Product product in Model)
+            {
+                <tr>
+                    <th scope="row">1</th>
+                    <td>@product.Title</td>
+                    <td>@product.Price</td>
+                    <td>
+                        <img width="80px" height="80px" src="~/uploads/product/@product.ImageUrl" alt="logo" />
+                    </td>
+                    <td>
+                        @product.Category.CategoryName
+                    </td>
+                    <td>
+                        @if (!product.IsDeleted)
+                        {
+                            <span class="text-success">Active</span>
+                        }
+                        else
+                        {
+                            <span class="text-danger">Inactive</span>
+                        }
+                    </td>
+                    <td>
+                        <a asp-action="Update" asp-route-id="@product.Id" class="btn btn-warning"> Update</a>
+
+                        @if (!product.IsDeleted)
+                        {
+                            <form asp-controller="Product" asp-action="Delete" asp-route-id="@product.Id">
+                                <button type="submit" class="btn btn-danger">
+                                    Delete
+                                </button>
+
+                            </form>
+                        }
+                        else
+                        {
+                            <form asp-controller="Product" asp-action="Restore" asp-route-id="@product.Id">
+                                <button type="submit" class="btn btn-warning">
+                                    Restore
+                                </button>
+                            </form>
+                        }
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
