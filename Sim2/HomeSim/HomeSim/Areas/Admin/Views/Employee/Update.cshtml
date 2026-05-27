@@ -1,0 +1,30 @@
+﻿@using HomeSim.Areas.Admin.ViewModels.Employee
+@model UpdateEmployeeVM
+
+
+<form asp-controller="Employee" asp-action="Update" method="post" enctype="multipart/form-data">
+    <div class="form-group">
+        <label for="Name">Name</label>
+        <input asp-for="@Model.Name" type="text" class="form-control" id="Name" placeholder="Name">
+            <span class="text-danger" asp-validation-for="@Model.Name"></span>
+        </div>
+        <div class="form-group">
+            <label for="Surname">Surname</label>
+            <input asp-for="@Model.Surname" type="text" class="form-control" id="Surname" placeholder="Surname">
+                <span class="text-danger" asp-validation-for="@Model.Surname"></span>
+            </div>
+            <div class="form-group">
+                <label for="Image">Image</label>
+                <input asp-for="@Model.ImageFile" type="file" class="form-control" id="Image" placeholder="Image">
+                    <span class="text-danger" asp-validation-for="@Model.ImageFile"></span>
+                </div>
+                <select asp-for="PositionId" aria-label="Default select example">
+                    <option disable selected>Select Position</option>
+                    @foreach (Position position in ViewBag.Positions)
+                    {
+                        <option value="@position.Id">@position.Name</option>
+                    }
+                </select>
+                <span class="text-danger" asp-validation-for="@Model.PositionId"></span>
+                <button type="submit" class="btn btn-primary">Submit</button>
+            </form>
