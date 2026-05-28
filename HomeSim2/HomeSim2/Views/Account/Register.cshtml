@@ -1,0 +1,41 @@
+﻿@using HomeSim2.ViewModels.Account
+@model RegisterVM
+
+
+
+<div class="container" style="margin-top:300px">
+    <form asp-controller="Account" asp-action="Register" method="post" enctype="multipart/form-data">
+        <div class="text-danger" asp-validation-summary="All"></div>
+        <div class="mb-3">
+            <label for="UserName" class="form-label">UserName</label>
+            <input asp-for="@Model.Username" type="text" class="form-control" id="UserName" placeholder="Add UserName...">
+                <span class="text-danger" asp-validation-for="@Model.Username"></span>
+            </div>
+            <div class="mb-3">
+                <label for="Name" class="form-label">Name</label>
+                <input asp-for="@Model.Name" type="text" class="form-control" id="Name" placeholder="Add Name...">
+                    <span class="text-danger" asp-validation-for="@Model.Name"></span>
+                </div>
+                <div class="mb-3">
+                    <label for="Surname" class="form-label">Surname</label>
+                    <input asp-for="@Model.Surname" type="text" class="form-control" id="Surname" placeholder="Add Surname...">
+                        <span class="text-danger" asp-validation-for="@Model.Surname"></span>
+                    </div>
+                    <div class="mb-3">
+                        <label for="Email" class="form-label">Email</label>
+                        <input asp-for="@Model.Email" type="email" class="form-control" id="Email" placeholder="Add Email...">
+                            <span class="text-danger" asp-validation-for="@Model.Email"></span>
+                        </div>
+                        <div class="mb-3">
+                            <label for="password" class="form-label">password</label>
+                            <input asp-for="@Model.Password" type="password" class="form-control" id="password" placeholder="Add password...">
+                                <span class="text-danger" asp-validation-for="@Model.Password"></span>
+                            </div>
+                            <div class="mb-3">
+                                <label for="Confirmpassword" class="form-label">ConfirmPassword</label>
+                                <input asp-for="@Model.ConfirmPassword" type="password" class="form-control" id="Confirmpassword" placeholder="Add ConfirmPassword...">
+                                    <span class="text-danger" asp-validation-for="@Model.ConfirmPassword"></span>
+                                </div>
+                                <button type="submit" class="btn btn-primary">Submit</button>
+                            </form>
+                        </div>

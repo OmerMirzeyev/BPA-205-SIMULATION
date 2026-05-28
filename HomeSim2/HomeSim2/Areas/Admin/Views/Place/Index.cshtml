@@ -1,0 +1,64 @@
+﻿@model List<Place>
+<div>
+	<table class="table table-bordered">
+		<thead>
+			<a class="btn btn-primary" asp-controller="Place" asp-action="Create">Create</a>
+			<tr>
+				<th scope="col">#</th>
+				<th scope="col">Name</th>
+				<th scope="col">FullAddress</th>
+				<th scope="col">City</th>
+				<th scope="col">Image</th>
+				<th scope="col">DeleteStatus</th>
+				<th colspan="2">Actions</th>
+			</tr>
+		</thead>
+		<tbody>
+			@foreach (Place place in Model)
+			{
+				<tr>
+					<th scope="row">@place.Id</th>
+					<td>@place.Name</td>
+					<td>@place.FullAddress</td>
+					<td>@place.City.Name</td>
+					<td>
+						<img style="width:90px; height:90px;" src="~/uploads/places/@place.ImageURL" />
+					</td>
+					@if (!place.IsDeleted)
+					{
+						<td class="text-success">Active</td>
+
+					}
+					else
+					{
+						<td class="text-danger">Inactive</td>
+
+					}
+					<td>
+						<a class="btn btn-primary" asp-controller="Place" asp-action="Update" asp-route-id="@place.Id">Update</a>
+					</td>
+
+					<td>
+						@if (!place.IsDeleted)
+						{
+							<form asp-controller="Place" asp-action="Delete" asp-route-id="@place.Id">
+								<button type="submit" class="btn btn-danger">
+									Delete
+								</button>
+
+							</form>
+						}
+						else
+						{
+							<form asp-controller="Place" asp-action="Restore" asp-route-id="@place.Id">
+								<button type="submit" class="btn btn-warning">
+									Restore
+								</button>
+							</form>
+						}
+					</td>
+				</tr>
+			}
+		</tbody>
+	</table>
+</div>

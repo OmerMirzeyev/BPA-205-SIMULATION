@@ -1,0 +1,21 @@
+﻿@using HomeSim2.ViewModels.Account
+@model LoginVM
+<div class="container" style="margin-top:300px">
+
+    <form asp-controller="Account" asp-action="Login" method="post" enctype="multipart/form-data">
+        <div class="text-danger" asp-validation-summary="All"></div>
+
+        <div class="mb-3">
+            <label for="Email" class="form-label">Email</label>
+            <input asp-for="@Model.Email" type="email" class="form-control" id="Email" placeholder="Add Email...">
+                <span class="text-danger" asp-validation-for="@Model.Email"></span>
+            </div>
+            <div class="mb-3">
+                <label for="password" class="form-label">password</label>
+                <input asp-for="@Model.Password" type="password" class="form-control" id="password" placeholder="Add password...">
+                    <span class="text-danger" asp-validation-for="@Model.Password"></span>
+                </div>
+
+                <button type="submit" class="btn btn-primary">Submit</button>
+            </form>
+        </div>
