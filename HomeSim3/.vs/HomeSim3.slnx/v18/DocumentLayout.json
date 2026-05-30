@@ -1,0 +1,637 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nitro\\source\\repos\\HomeSim3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05ACC2DE-F22D-CC5F-6AF3-941A1F94FB1E}|HomeSim3\\HomeSim3.csproj|c:\\users\\nitro\\source\\repos\\homesim3\\homesim3\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05ACC2DE-F22D-CC5F-6AF3-941A1F94FB1E}|HomeSim3\\HomeSim3.csproj|solutionrelative:homesim3\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05ACC2DE-F22D-CC5F-6AF3-941A1F94FB1E}|HomeSim3\\HomeSim3.csproj|c:\\users\\nitro\\source\\repos\\homesim3\\homesim3\\areas\\admin\\controllers\\positioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05ACC2DE-F22D-CC5F-6AF3-941A1F94FB1E}|HomeSim3\\HomeSim3.csproj|solutionrelative:homesim3\\areas\\admin\\controllers\\positioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05ACC2DE-F22D-CC5F-6AF3-941A1F94FB1E}|HomeSim3\\HomeSim3.csproj|c:\\users\\nitro\\source\\repos\\homesim3\\homesim3\\areas\\admin\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05ACC2DE-F22D-CC5F-6AF3-941A1F94FB1E}|HomeSim3\\HomeSim3.csproj|solutionrelative:homesim3\\areas\\admin\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05ACC2DE-F22D-CC5F-6AF3-941A1F94FB1E}|HomeSim3\\HomeSim3.csproj|c:\\users\\nitro\\source\\repos\\homesim3\\homesim3\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05ACC2DE-F22D-CC5F-6AF3-941A1F94FB1E}|HomeSim3\\HomeSim3.csproj|solutionrelative:homesim3\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05ACC2DE-F22D-CC5F-6AF3-941A1F94FB1E}|HomeSim3\\HomeSim3.csproj|c:\\users\\nitro\\source\\repos\\homesim3\\homesim3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05ACC2DE-F22D-CC5F-6AF3-941A1F94FB1E}|HomeSim3\\HomeSim3.csproj|solutionrelative:homesim3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05ACC2DE-F22D-CC5F-6AF3-941A1F94FB1E}|HomeSim3\\HomeSim3.csproj|c:\\users\\nitro\\source\\repos\\homesim3\\homesim3\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05ACC2DE-F22D-CC5F-6AF3-941A1F94FB1E}|HomeSim3\\HomeSim3.csproj|solutionrelative:homesim3\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05ACC2DE-F22D-CC5F-6AF3-941A1F94FB1E}|HomeSim3\\HomeSim3.csproj|c:\\users\\nitro\\source\\repos\\homesim3\\homesim3\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05ACC2DE-F22D-CC5F-6AF3-941A1F94FB1E}|HomeSim3\\HomeSim3.csproj|solutionrelative:homesim3\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05ACC2DE-F22D-CC5F-6AF3-941A1F94FB1E}|HomeSim3\\HomeSim3.csproj|c:\\users\\nitro\\source\\repos\\homesim3\\homesim3\\viewmodels\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05ACC2DE-F22D-CC5F-6AF3-941A1F94FB1E}|HomeSim3\\HomeSim3.csproj|solutionrelative:homesim3\\viewmodels\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05ACC2DE-F22D-CC5F-6AF3-941A1F94FB1E}|HomeSim3\\HomeSim3.csproj|c:\\users\\nitro\\source\\repos\\homesim3\\homesim3\\viewmodels\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05ACC2DE-F22D-CC5F-6AF3-941A1F94FB1E}|HomeSim3\\HomeSim3.csproj|solutionrelative:homesim3\\viewmodels\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05ACC2DE-F22D-CC5F-6AF3-941A1F94FB1E}|HomeSim3\\HomeSim3.csproj|c:\\users\\nitro\\source\\repos\\homesim3\\homesim3\\areas\\admin\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05ACC2DE-F22D-CC5F-6AF3-941A1F94FB1E}|HomeSim3\\HomeSim3.csproj|solutionrelative:homesim3\\areas\\admin\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05ACC2DE-F22D-CC5F-6AF3-941A1F94FB1E}|HomeSim3\\HomeSim3.csproj|c:\\users\\nitro\\source\\repos\\homesim3\\homesim3\\areas\\admin\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05ACC2DE-F22D-CC5F-6AF3-941A1F94FB1E}|HomeSim3\\HomeSim3.csproj|solutionrelative:homesim3\\areas\\admin\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05ACC2DE-F22D-CC5F-6AF3-941A1F94FB1E}|HomeSim3\\HomeSim3.csproj|c:\\users\\nitro\\source\\repos\\homesim3\\homesim3\\areas\\admin\\views\\employee\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05ACC2DE-F22D-CC5F-6AF3-941A1F94FB1E}|HomeSim3\\HomeSim3.csproj|solutionrelative:homesim3\\areas\\admin\\views\\employee\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05ACC2DE-F22D-CC5F-6AF3-941A1F94FB1E}|HomeSim3\\HomeSim3.csproj|c:\\users\\nitro\\source\\repos\\homesim3\\homesim3\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05ACC2DE-F22D-CC5F-6AF3-941A1F94FB1E}|HomeSim3\\HomeSim3.csproj|solutionrelative:homesim3\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05ACC2DE-F22D-CC5F-6AF3-941A1F94FB1E}|HomeSim3\\HomeSim3.csproj|c:\\users\\nitro\\source\\repos\\homesim3\\homesim3\\areas\\admin\\views\\position\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05ACC2DE-F22D-CC5F-6AF3-941A1F94FB1E}|HomeSim3\\HomeSim3.csproj|solutionrelative:homesim3\\areas\\admin\\views\\position\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05ACC2DE-F22D-CC5F-6AF3-941A1F94FB1E}|HomeSim3\\HomeSim3.csproj|c:\\users\\nitro\\source\\repos\\homesim3\\homesim3\\areas\\admin\\views\\position\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05ACC2DE-F22D-CC5F-6AF3-941A1F94FB1E}|HomeSim3\\HomeSim3.csproj|solutionrelative:homesim3\\areas\\admin\\views\\position\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05ACC2DE-F22D-CC5F-6AF3-941A1F94FB1E}|HomeSim3\\HomeSim3.csproj|c:\\users\\nitro\\source\\repos\\homesim3\\homesim3\\areas\\admin\\views\\position\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05ACC2DE-F22D-CC5F-6AF3-941A1F94FB1E}|HomeSim3\\HomeSim3.csproj|solutionrelative:homesim3\\areas\\admin\\views\\position\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05ACC2DE-F22D-CC5F-6AF3-941A1F94FB1E}|HomeSim3\\HomeSim3.csproj|c:\\users\\nitro\\source\\repos\\homesim3\\homesim3\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05ACC2DE-F22D-CC5F-6AF3-941A1F94FB1E}|HomeSim3\\HomeSim3.csproj|solutionrelative:homesim3\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05ACC2DE-F22D-CC5F-6AF3-941A1F94FB1E}|HomeSim3\\HomeSim3.csproj|c:\\users\\nitro\\source\\repos\\homesim3\\homesim3\\areas\\admin\\viewmodels\\employee\\updateemployeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05ACC2DE-F22D-CC5F-6AF3-941A1F94FB1E}|HomeSim3\\HomeSim3.csproj|solutionrelative:homesim3\\areas\\admin\\viewmodels\\employee\\updateemployeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05ACC2DE-F22D-CC5F-6AF3-941A1F94FB1E}|HomeSim3\\HomeSim3.csproj|c:\\users\\nitro\\source\\repos\\homesim3\\homesim3\\areas\\admin\\viewmodels\\employee\\createemployeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05ACC2DE-F22D-CC5F-6AF3-941A1F94FB1E}|HomeSim3\\HomeSim3.csproj|solutionrelative:homesim3\\areas\\admin\\viewmodels\\employee\\createemployeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05ACC2DE-F22D-CC5F-6AF3-941A1F94FB1E}|HomeSim3\\HomeSim3.csproj|c:\\users\\nitro\\source\\repos\\homesim3\\homesim3\\areas\\admin\\viewmodels\\position\\createpositionvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05ACC2DE-F22D-CC5F-6AF3-941A1F94FB1E}|HomeSim3\\HomeSim3.csproj|solutionrelative:homesim3\\areas\\admin\\viewmodels\\position\\createpositionvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05ACC2DE-F22D-CC5F-6AF3-941A1F94FB1E}|HomeSim3\\HomeSim3.csproj|c:\\users\\nitro\\source\\repos\\homesim3\\homesim3\\areas\\admin\\viewmodels\\position\\updatepositionvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05ACC2DE-F22D-CC5F-6AF3-941A1F94FB1E}|HomeSim3\\HomeSim3.csproj|solutionrelative:homesim3\\areas\\admin\\viewmodels\\position\\updatepositionvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05ACC2DE-F22D-CC5F-6AF3-941A1F94FB1E}|HomeSim3\\HomeSim3.csproj|c:\\users\\nitro\\source\\repos\\homesim3\\homesim3\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05ACC2DE-F22D-CC5F-6AF3-941A1F94FB1E}|HomeSim3\\HomeSim3.csproj|solutionrelative:homesim3\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05ACC2DE-F22D-CC5F-6AF3-941A1F94FB1E}|HomeSim3\\HomeSim3.csproj|c:\\users\\nitro\\source\\repos\\homesim3\\homesim3\\utilities\\imageuploadsextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05ACC2DE-F22D-CC5F-6AF3-941A1F94FB1E}|HomeSim3\\HomeSim3.csproj|solutionrelative:homesim3\\utilities\\imageuploadsextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05ACC2DE-F22D-CC5F-6AF3-941A1F94FB1E}|HomeSim3\\HomeSim3.csproj|c:\\users\\nitro\\source\\repos\\homesim3\\homesim3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05ACC2DE-F22D-CC5F-6AF3-941A1F94FB1E}|HomeSim3\\HomeSim3.csproj|solutionrelative:homesim3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05ACC2DE-F22D-CC5F-6AF3-941A1F94FB1E}|HomeSim3\\HomeSim3.csproj|c:\\users\\nitro\\source\\repos\\homesim3\\homesim3\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05ACC2DE-F22D-CC5F-6AF3-941A1F94FB1E}|HomeSim3\\HomeSim3.csproj|solutionrelative:homesim3\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05ACC2DE-F22D-CC5F-6AF3-941A1F94FB1E}|HomeSim3\\HomeSim3.csproj|c:\\users\\nitro\\source\\repos\\homesim3\\homesim3\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05ACC2DE-F22D-CC5F-6AF3-941A1F94FB1E}|HomeSim3\\HomeSim3.csproj|solutionrelative:homesim3\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05ACC2DE-F22D-CC5F-6AF3-941A1F94FB1E}|HomeSim3\\HomeSim3.csproj|c:\\users\\nitro\\source\\repos\\homesim3\\homesim3\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05ACC2DE-F22D-CC5F-6AF3-941A1F94FB1E}|HomeSim3\\HomeSim3.csproj|solutionrelative:homesim3\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05ACC2DE-F22D-CC5F-6AF3-941A1F94FB1E}|HomeSim3\\HomeSim3.csproj|c:\\users\\nitro\\source\\repos\\homesim3\\homesim3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05ACC2DE-F22D-CC5F-6AF3-941A1F94FB1E}|HomeSim3\\HomeSim3.csproj|solutionrelative:homesim3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nitro\\source\\repos\\HomeSim3\\HomeSim3\\Migrations\\20260529190642_CreateHomeSIm3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HomeSim3\\Migrations\\20260529190642_CreateHomeSIm3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05ACC2DE-F22D-CC5F-6AF3-941A1F94FB1E}|HomeSim3\\HomeSim3.csproj|c:\\users\\nitro\\source\\repos\\homesim3\\homesim3\\migrations\\20260529191534_createhomesim3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05ACC2DE-F22D-CC5F-6AF3-941A1F94FB1E}|HomeSim3\\HomeSim3.csproj|solutionrelative:homesim3\\migrations\\20260529191534_createhomesim3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05ACC2DE-F22D-CC5F-6AF3-941A1F94FB1E}|HomeSim3\\HomeSim3.csproj|c:\\users\\nitro\\source\\repos\\homesim3\\homesim3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{05ACC2DE-F22D-CC5F-6AF3-941A1F94FB1E}|HomeSim3\\HomeSim3.csproj|solutionrelative:homesim3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05ACC2DE-F22D-CC5F-6AF3-941A1F94FB1E}|HomeSim3\\HomeSim3.csproj|c:\\users\\nitro\\source\\repos\\homesim3\\homesim3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05ACC2DE-F22D-CC5F-6AF3-941A1F94FB1E}|HomeSim3\\HomeSim3.csproj|solutionrelative:homesim3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05ACC2DE-F22D-CC5F-6AF3-941A1F94FB1E}|HomeSim3\\HomeSim3.csproj|c:\\users\\nitro\\source\\repos\\homesim3\\homesim3\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05ACC2DE-F22D-CC5F-6AF3-941A1F94FB1E}|HomeSim3\\HomeSim3.csproj|solutionrelative:homesim3\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05ACC2DE-F22D-CC5F-6AF3-941A1F94FB1E}|HomeSim3\\HomeSim3.csproj|c:\\users\\nitro\\source\\repos\\homesim3\\homesim3\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05ACC2DE-F22D-CC5F-6AF3-941A1F94FB1E}|HomeSim3\\HomeSim3.csproj|solutionrelative:homesim3\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05ACC2DE-F22D-CC5F-6AF3-941A1F94FB1E}|HomeSim3\\HomeSim3.csproj|c:\\users\\nitro\\source\\repos\\homesim3\\homesim3\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05ACC2DE-F22D-CC5F-6AF3-941A1F94FB1E}|HomeSim3\\HomeSim3.csproj|solutionrelative:homesim3\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05ACC2DE-F22D-CC5F-6AF3-941A1F94FB1E}|HomeSim3\\HomeSim3.csproj|c:\\users\\nitro\\source\\repos\\homesim3\\homesim3\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05ACC2DE-F22D-CC5F-6AF3-941A1F94FB1E}|HomeSim3\\HomeSim3.csproj|solutionrelative:homesim3\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05ACC2DE-F22D-CC5F-6AF3-941A1F94FB1E}|HomeSim3\\HomeSim3.csproj|c:\\users\\nitro\\source\\repos\\homesim3\\homesim3\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05ACC2DE-F22D-CC5F-6AF3-941A1F94FB1E}|HomeSim3\\HomeSim3.csproj|solutionrelative:homesim3\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nitro\\source\\repos\\HomeSim3\\HomeSim3\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "HomeSim3\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Nitro\\source\\repos\\HomeSim3\\HomeSim3\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "HomeSim3\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-30T08:31:13.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nitro\\source\\repos\\HomeSim3\\HomeSim3\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "HomeSim3\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Nitro\\source\\repos\\HomeSim3\\HomeSim3\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "HomeSim3\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-30T08:31:04.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "C:\\Users\\Nitro\\source\\repos\\HomeSim3\\HomeSim3\\ViewModels\\Account\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "HomeSim3\\ViewModels\\Account\\RegisterVM.cs",
+              "ToolTip": "C:\\Users\\Nitro\\source\\repos\\HomeSim3\\HomeSim3\\ViewModels\\Account\\RegisterVM.cs",
+              "RelativeToolTip": "HomeSim3\\ViewModels\\Account\\RegisterVM.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA9wCMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T08:30:12.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\Nitro\\source\\repos\\HomeSim3\\HomeSim3\\ViewModels\\Account\\LoginVM.cs",
+              "RelativeDocumentMoniker": "HomeSim3\\ViewModels\\Account\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\Nitro\\source\\repos\\HomeSim3\\HomeSim3\\ViewModels\\Account\\LoginVM.cs",
+              "RelativeToolTip": "HomeSim3\\ViewModels\\Account\\LoginVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T08:30:03.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Nitro\\source\\repos\\HomeSim3\\HomeSim3\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "HomeSim3\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Nitro\\source\\repos\\HomeSim3\\HomeSim3\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "HomeSim3\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAcwFsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T08:29:31.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Nitro\\source\\repos\\HomeSim3\\HomeSim3\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "HomeSim3\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Nitro\\source\\repos\\HomeSim3\\HomeSim3\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "HomeSim3\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T19:25:19.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nitro\\source\\repos\\HomeSim3\\HomeSim3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "HomeSim3\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Nitro\\source\\repos\\HomeSim3\\HomeSim3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "HomeSim3\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-29T18:31:34.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Nitro\\source\\repos\\HomeSim3\\HomeSim3\\Areas\\Admin\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "HomeSim3\\Areas\\Admin\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Nitro\\source\\repos\\HomeSim3\\HomeSim3\\Areas\\Admin\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "HomeSim3\\Areas\\Admin\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T19:32:30.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PositionController.cs",
+              "DocumentMoniker": "C:\\Users\\Nitro\\source\\repos\\HomeSim3\\HomeSim3\\Areas\\Admin\\Controllers\\PositionController.cs",
+              "RelativeDocumentMoniker": "HomeSim3\\Areas\\Admin\\Controllers\\PositionController.cs",
+              "ToolTip": "C:\\Users\\Nitro\\source\\repos\\HomeSim3\\HomeSim3\\Areas\\Admin\\Controllers\\PositionController.cs",
+              "RelativeToolTip": "HomeSim3\\Areas\\Admin\\Controllers\\PositionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T19:32:10.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nitro\\source\\repos\\HomeSim3\\HomeSim3\\Areas\\Admin\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "HomeSim3\\Areas\\Admin\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Nitro\\source\\repos\\HomeSim3\\HomeSim3\\Areas\\Admin\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "HomeSim3\\Areas\\Admin\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-30T08:13:09.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nitro\\source\\repos\\HomeSim3\\HomeSim3\\Areas\\Admin\\Views\\Employee\\Update.cshtml",
+              "RelativeDocumentMoniker": "HomeSim3\\Areas\\Admin\\Views\\Employee\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Nitro\\source\\repos\\HomeSim3\\HomeSim3\\Areas\\Admin\\Views\\Employee\\Update.cshtml",
+              "RelativeToolTip": "HomeSim3\\Areas\\Admin\\Views\\Employee\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-30T08:13:28.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nitro\\source\\repos\\HomeSim3\\HomeSim3\\Areas\\Admin\\Views\\Position\\Update.cshtml",
+              "RelativeDocumentMoniker": "HomeSim3\\Areas\\Admin\\Views\\Position\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Nitro\\source\\repos\\HomeSim3\\HomeSim3\\Areas\\Admin\\Views\\Position\\Update.cshtml",
+              "RelativeToolTip": "HomeSim3\\Areas\\Admin\\Views\\Position\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-30T08:13:02.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nitro\\source\\repos\\HomeSim3\\HomeSim3\\Areas\\Admin\\Views\\Position\\Create.cshtml",
+              "RelativeDocumentMoniker": "HomeSim3\\Areas\\Admin\\Views\\Position\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Nitro\\source\\repos\\HomeSim3\\HomeSim3\\Areas\\Admin\\Views\\Position\\Create.cshtml",
+              "RelativeToolTip": "HomeSim3\\Areas\\Admin\\Views\\Position\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-30T08:12:55.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nitro\\source\\repos\\HomeSim3\\HomeSim3\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "HomeSim3\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\Nitro\\source\\repos\\HomeSim3\\HomeSim3\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "HomeSim3\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAACkBAAAAAAAAAAAAAEMBAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-29T19:24:26.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nitro\\source\\repos\\HomeSim3\\HomeSim3\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "HomeSim3\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Nitro\\source\\repos\\HomeSim3\\HomeSim3\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "HomeSim3\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-30T08:13:18.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nitro\\source\\repos\\HomeSim3\\HomeSim3\\Areas\\Admin\\Views\\Position\\Index.cshtml",
+              "RelativeDocumentMoniker": "HomeSim3\\Areas\\Admin\\Views\\Position\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Nitro\\source\\repos\\HomeSim3\\HomeSim3\\Areas\\Admin\\Views\\Position\\Index.cshtml",
+              "RelativeToolTip": "HomeSim3\\Areas\\Admin\\Views\\Position\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-30T08:12:45.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nitro\\source\\repos\\HomeSim3\\HomeSim3\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "HomeSim3\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Nitro\\source\\repos\\HomeSim3\\HomeSim3\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "HomeSim3\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-29T19:24:39.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UpdateEmployeeVM.cs",
+              "DocumentMoniker": "C:\\Users\\Nitro\\source\\repos\\HomeSim3\\HomeSim3\\Areas\\Admin\\ViewModels\\Employee\\UpdateEmployeeVM.cs",
+              "RelativeDocumentMoniker": "HomeSim3\\Areas\\Admin\\ViewModels\\Employee\\UpdateEmployeeVM.cs",
+              "ToolTip": "C:\\Users\\Nitro\\source\\repos\\HomeSim3\\HomeSim3\\Areas\\Admin\\ViewModels\\Employee\\UpdateEmployeeVM.cs",
+              "RelativeToolTip": "HomeSim3\\Areas\\Admin\\ViewModels\\Employee\\UpdateEmployeeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T08:06:04.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CreateEmployeeVM.cs",
+              "DocumentMoniker": "C:\\Users\\Nitro\\source\\repos\\HomeSim3\\HomeSim3\\Areas\\Admin\\ViewModels\\Employee\\CreateEmployeeVM.cs",
+              "RelativeDocumentMoniker": "HomeSim3\\Areas\\Admin\\ViewModels\\Employee\\CreateEmployeeVM.cs",
+              "ToolTip": "C:\\Users\\Nitro\\source\\repos\\HomeSim3\\HomeSim3\\Areas\\Admin\\ViewModels\\Employee\\CreateEmployeeVM.cs",
+              "RelativeToolTip": "HomeSim3\\Areas\\Admin\\ViewModels\\Employee\\CreateEmployeeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T08:05:55.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CreatePositionVM.cs",
+              "DocumentMoniker": "C:\\Users\\Nitro\\source\\repos\\HomeSim3\\HomeSim3\\Areas\\Admin\\ViewModels\\Position\\CreatePositionVM.cs",
+              "RelativeDocumentMoniker": "HomeSim3\\Areas\\Admin\\ViewModels\\Position\\CreatePositionVM.cs",
+              "ToolTip": "C:\\Users\\Nitro\\source\\repos\\HomeSim3\\HomeSim3\\Areas\\Admin\\ViewModels\\Position\\CreatePositionVM.cs",
+              "RelativeToolTip": "HomeSim3\\Areas\\Admin\\ViewModels\\Position\\CreatePositionVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T08:06:14.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UpdatePositionVM.cs",
+              "DocumentMoniker": "C:\\Users\\Nitro\\source\\repos\\HomeSim3\\HomeSim3\\Areas\\Admin\\ViewModels\\Position\\UpdatePositionVM.cs",
+              "RelativeDocumentMoniker": "HomeSim3\\Areas\\Admin\\ViewModels\\Position\\UpdatePositionVM.cs",
+              "ToolTip": "C:\\Users\\Nitro\\source\\repos\\HomeSim3\\HomeSim3\\Areas\\Admin\\ViewModels\\Position\\UpdatePositionVM.cs",
+              "RelativeToolTip": "HomeSim3\\Areas\\Admin\\ViewModels\\Position\\UpdatePositionVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T08:06:22.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Nitro\\source\\repos\\HomeSim3\\HomeSim3\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "HomeSim3\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Nitro\\source\\repos\\HomeSim3\\HomeSim3\\Models\\Employee.cs",
+              "RelativeToolTip": "HomeSim3\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T18:32:23.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ImageUploadsExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Nitro\\source\\repos\\HomeSim3\\HomeSim3\\Utilities\\ImageUploadsExtensions.cs",
+              "RelativeDocumentMoniker": "HomeSim3\\Utilities\\ImageUploadsExtensions.cs",
+              "ToolTip": "C:\\Users\\Nitro\\source\\repos\\HomeSim3\\HomeSim3\\Utilities\\ImageUploadsExtensions.cs",
+              "RelativeToolTip": "HomeSim3\\Utilities\\ImageUploadsExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T08:07:50.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nitro\\source\\repos\\HomeSim3\\HomeSim3\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "HomeSim3\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Nitro\\source\\repos\\HomeSim3\\HomeSim3\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "HomeSim3\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAC0BAAAAAAAAAAAAAEABAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-29T19:25:23.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nitro\\source\\repos\\HomeSim3\\HomeSim3\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "HomeSim3\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Nitro\\source\\repos\\HomeSim3\\HomeSim3\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "HomeSim3\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-29T19:24:32.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20260529190642_CreateHomeSIm3.cs",
+              "DocumentMoniker": "C:\\Users\\Nitro\\source\\repos\\HomeSim3\\HomeSim3\\Migrations\\20260529190642_CreateHomeSIm3.cs",
+              "RelativeDocumentMoniker": "HomeSim3\\Migrations\\20260529190642_CreateHomeSIm3.cs",
+              "ToolTip": "C:\\Users\\Nitro\\source\\repos\\HomeSim3\\HomeSim3\\Migrations\\20260529190642_CreateHomeSIm3.cs",
+              "RelativeToolTip": "HomeSim3\\Migrations\\20260529190642_CreateHomeSIm3.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T19:06:42.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Nitro\\source\\repos\\HomeSim3\\HomeSim3\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "HomeSim3\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Nitro\\source\\repos\\HomeSim3\\HomeSim3\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "HomeSim3\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T18:31:10.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Nitro\\source\\repos\\HomeSim3\\HomeSim3\\appsettings.json",
+              "RelativeDocumentMoniker": "HomeSim3\\appsettings.json",
+              "ToolTip": "C:\\Users\\Nitro\\source\\repos\\HomeSim3\\HomeSim3\\appsettings.json",
+              "RelativeToolTip": "HomeSim3\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-29T18:55:29.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nitro\\source\\repos\\HomeSim3\\HomeSim3\\Program.cs",
+              "RelativeDocumentMoniker": "HomeSim3\\Program.cs",
+              "ToolTip": "C:\\Users\\Nitro\\source\\repos\\HomeSim3\\HomeSim3\\Program.cs",
+              "RelativeToolTip": "HomeSim3\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T18:45:09.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\Nitro\\source\\repos\\HomeSim3\\HomeSim3\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "HomeSim3\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\Nitro\\source\\repos\\HomeSim3\\HomeSim3\\Models\\AppUser.cs",
+              "RelativeToolTip": "HomeSim3\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T18:39:24.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Nitro\\source\\repos\\HomeSim3\\HomeSim3\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "HomeSim3\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Nitro\\source\\repos\\HomeSim3\\HomeSim3\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "HomeSim3\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T18:38:34.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nitro\\source\\repos\\HomeSim3\\HomeSim3\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "HomeSim3\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Nitro\\source\\repos\\HomeSim3\\HomeSim3\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "HomeSim3\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-29T18:31:27.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20260529191534_CreateHomeSIm3.cs",
+              "DocumentMoniker": "C:\\Users\\Nitro\\source\\repos\\HomeSim3\\HomeSim3\\Migrations\\20260529191534_CreateHomeSIm3.cs",
+              "RelativeDocumentMoniker": "HomeSim3\\Migrations\\20260529191534_CreateHomeSIm3.cs",
+              "ToolTip": "C:\\Users\\Nitro\\source\\repos\\HomeSim3\\HomeSim3\\Migrations\\20260529191534_CreateHomeSIm3.cs",
+              "RelativeToolTip": "HomeSim3\\Migrations\\20260529191534_CreateHomeSIm3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T19:15:34.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Position.cs",
+              "DocumentMoniker": "C:\\Users\\Nitro\\source\\repos\\HomeSim3\\HomeSim3\\Models\\Position.cs",
+              "RelativeDocumentMoniker": "HomeSim3\\Models\\Position.cs",
+              "ToolTip": "C:\\Users\\Nitro\\source\\repos\\HomeSim3\\HomeSim3\\Models\\Position.cs",
+              "RelativeToolTip": "HomeSim3\\Models\\Position.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T18:32:31.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nitro\\source\\repos\\HomeSim3\\HomeSim3\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "HomeSim3\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Nitro\\source\\repos\\HomeSim3\\HomeSim3\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "HomeSim3\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwCcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-29T18:31:42.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nitro\\source\\repos\\HomeSim3\\HomeSim3\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "HomeSim3\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Nitro\\source\\repos\\HomeSim3\\HomeSim3\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "HomeSim3\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-29T18:31:20.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Nitro\\source\\repos\\HomeSim3\\HomeSim3\\Models\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "HomeSim3\\Models\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Nitro\\source\\repos\\HomeSim3\\HomeSim3\\Models\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "HomeSim3\\Models\\Base\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T18:31:56.388Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
