@@ -1,0 +1,11 @@
+﻿@model Crypto
+
+<div class="container" style="padding-top:200px">
+    <div>
+        <p>@Model.Name</p>
+        <p>@Model.Price</p>
+        <p>@Model.Description</p>
+        <p>@Model.Category.Name</p>
+    </div>
+    <img src="~/uploads/crypto/@Model.ImageUrl" alt="LOGOO" />
+</div>

@@ -1,0 +1,58 @@
+﻿@model List<Crypto>
+
+<div>
+    <a asp-controller="Crypto" asp-action="Create" class="btn btn-primary">Add Crypto</a>
+    <table class="table">
+        <thead class="thead-dark">
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Name</th>
+                <th scope="col">Price</th>
+                <th scope="col">Description</th>
+                <th scope="col">Category</th>
+                <th scope="col">Delete Status</th>
+                <th colspan="2">Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(Crypto crypto in Model)
+            {
+
+                <tr>
+                    <th scope="row">1</th>
+                    <td>@crypto.Name</td>
+                    <td>@crypto.Price</td>
+                    <td>@crypto.Description</td>
+                    <td>@crypto.Category.Name</td>
+                    <td>
+                        @if (!crypto.IsDeleted)
+                        {
+                            <span class="text-success">Active</span>
+                        }
+                        else
+                        {
+                            <span class="text-danger">Inactive</span>
+                        }
+                    </td>
+                    <td>
+                        <a class="btn btn-primary" asp-action="Update" asp-route-id="@crypto.Id">Update</a>
+                    </td>
+                    <td>
+                        @if (!crypto.IsDeleted)
+                        {
+                            <form asp-controller="Crypto" asp-action="Delete" asp-route-id="@crypto.Id">
+                                <button type="submit" class="btn btn-danger">Delete</button>
+                            </form>
+                        }
+                        else
+                        {
+                            <form asp-controller="Crypto" asp-action="Restore" asp-route-id="@crypto.Id">
+                                <button type="submit" class="btn btn-warning">Restore</button>
+                            </form>
+                        }
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

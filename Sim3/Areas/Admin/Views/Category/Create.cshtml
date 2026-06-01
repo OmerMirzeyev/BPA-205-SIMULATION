@@ -1,0 +1,12 @@
+﻿@using Sim3.Areas.Admin.ViewModels.Category
+@model CreateCategoryVM
+<div>
+<form asp-controller="Category" asp-action="Create" method="post">
+    <div class="form-group">
+        <label for="Name">Name</label>
+        <input asp-for="@Model.Name" type="text" class="form-control" id="Name" placeholder="Enter Name">
+            <span asp-validation-for="@Model.Name"></span>
+    <button type="submit" class="btn btn-primary">Submit</button>
+    </div>
+</form>
+</div>
