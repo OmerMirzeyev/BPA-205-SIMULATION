@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sim4")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e83e34f0306e6444320bd3915a481d54e905cd46")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sim4")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sim4")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

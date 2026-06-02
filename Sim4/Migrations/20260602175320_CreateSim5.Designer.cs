@@ -12,7 +12,7 @@ using Sim4.DAL;
 namespace Sim4.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20260602103250_CreateSim5")]
+    [Migration("20260602175320_CreateSim5")]
     partial class CreateSim5
     {
         /// <inheritdoc />

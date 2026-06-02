@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using Sim4.Areas.Admin.ViewModels.Member;
 using Sim4.DAL;
 using Sim4.Models;
-using System.Threading.Tasks;
+using Sim4.Utilities;
 
 namespace Sim4.Areas.Admin.Controllers
 {
@@ -36,19 +36,19 @@ namespace Sim4.Areas.Admin.Controllers
             if(memberVM.ImageFile is null)
             {
                 ModelState.AddModelError("ImageFile", "ImageFile is not null");
-                return View();
+                return View(memberVM);
             }
             else
             {
             if (!memberVM.ImageFile.ContentType.Contains("image/"))
             {
                 ModelState.AddModelError("ImageFile", "ImageFile in valid");
-                return View();
+                return View(memberVM);
             }
             if(memberVM.ImageFile.Length > 2 * 1024 * 1024)
                 {
                     ModelState.AddModelError("ImageFile", "ImageFile size max 2mb");
-                    return View();
+                    return View(memberVM);
                 }
             }
             if (!ModelState.IsValid) return View();

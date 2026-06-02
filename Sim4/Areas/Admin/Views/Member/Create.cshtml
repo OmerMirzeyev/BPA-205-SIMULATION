@@ -1,0 +1,38 @@
+﻿@using Sim4.Areas.Admin.ViewModels.Member
+@model CreateMemberVM
+<div>
+    <form asp-controller="Member" asp-action="Create" method="post" enctype="multipart/form-data">
+        <div class="form-group">
+            <label for="Name">Name</label>
+            <input asp-for="@Model.Name" type="text" class="form-control" id="Name" placeholder="Enter Name">
+                <span asp-validation-for="@Model.Name"></span>
+            </div>
+            <div class="form-group">
+                <label for="Surname">Surname</label>
+                <input asp-for="@Model.Surname" type="text" class="form-control" id="Surname" placeholder="Enter Surname">
+                    <span asp-validation-for="@Model.Surname"></span>
+                </div>
+                <div class="form-group">
+                    <label for="Description">Description</label>
+                    <input asp-for="@Model.Description" type="text" class="form-control" id="Description" placeholder="Enter Description">
+                        <span asp-validation-for="@Model.Description"></span>
+                    </div>
+                    <div class="form-group">
+                        <label for="ImageFile">ImageFile</label>
+                        <input asp-for="@Model.ImageFile" type="file" class="form-control" id="ImageFile" placeholder="Enter ImageFile">
+                            <span asp-validation-for="@Model.ImageFile"></span>
+                        </div>
+                        <div class="form-group">
+                            <select class="form-select">
+                                <option disabled selected>Open this select position</option>
+                                @foreach (var position in ViewBag.Positions)
+                                {
+                                    <option value="@position.Id">@position.Name</option>
+                                }
+                            </select>
+                        </div>
+                        <button type="submit" class="btn btn-primary">Submit</button>
+                    </form>
+                </div>
+
+            </div>
