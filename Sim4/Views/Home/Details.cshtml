@@ -1,0 +1,12 @@
+﻿@model Member
+<div class="container" style="padding-top:200px">
+    <div>
+        <p>@Model.Name</p>
+        <p>@Model.Surname</p>
+        <p>@Model.Description</p>
+        <p>@Model.Position.Name</p>
+    </div>
+    <div>
+        <img height="100px" width="100px" src="~/assets/images/@Model.ImageUrl" class="img-responsive" alt="team img 1">
+    </div>
+</div>

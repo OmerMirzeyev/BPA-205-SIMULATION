@@ -1,0 +1,57 @@
+﻿
+@model List<Position>
+<div>
+    <a class="btn btn-primary" asp-controller="Position" asp-action="Create">Create Position</a>
+<table class="table">
+    <thead class="thead-dark">
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Name</th>
+            <th scope="col">Delete Status</th>
+            <th colspan="2">Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(Position position in Model)
+        {
+        <tr>
+            <th scope="row">1</th>
+            <td>@position.Name</td>
+            <td>
+                    @if (!position.IsDeleted)
+                    {
+                        <span class="text-success">Active</span>
+                    }
+                    else
+                    {
+                        <span class="text-danger">Inactive</span>
+                    }
+                </td>
+                <td>
+
+                <a class="btn btn-primary" asp-controller="Position" asp-action="Update" asp-route-id="@position.Id">Update</a>
+                </td>
+            <td>
+                    @if (!position.IsDeleted)
+                    {
+                        <form asp-controller="Position" asp-action="Delete" asp-route-id="@position.Id">
+                            <button type="submit" class="btn btn-danger">
+                                Delete
+                            </button>
+                        </form>
+                    }
+                    else
+                    {
+                        <form asp-controller="Position" asp-action="Restore" asp-route-id="@position.Id">
+                            <button type="submit" class="btn btn-warning">
+                                Restore
+                            </button>
+                        </form>
+                    }
+            </td>
+        </tr>
+            
+        }
+    </tbody>
+</table>
+</div>
