@@ -1,0 +1,14 @@
+﻿@model Product
+
+<div class="container">
+    <div>
+        <p>@Model.Name</p>
+        <p>@Model.Description</p>
+        <p>@Model.Price</p>
+        <p>@Model.Category.Name</p>
+    </div>
+    <div>
+        <img src="~/uploads/product/@Model.ImageUrl"
+             alt="Shipping Icon" />
+    </div>
+</div>
