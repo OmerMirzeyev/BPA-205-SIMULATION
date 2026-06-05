@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Sim7.Areas.Admin.ViewModels.Member;
 using Sim7.DAL;
@@ -9,7 +10,7 @@ using System.Threading.Tasks;
 namespace Sim7.Areas.Admin.Controllers
 {
     [Area("Admin")]
-
+    [Authorize(Roles = "Admin")]
     public class MemberController : Controller
     {
         private readonly AppDbContext _db;

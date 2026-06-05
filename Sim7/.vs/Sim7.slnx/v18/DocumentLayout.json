@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\ll novbe\\Desktop\\BPA-205-SIMULATION\\Sim7\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2B0A2986-BF8C-D4AA-3820-EC1F2C0AF4DE}|Sim7.csproj|c:\\users\\ll novbe\\desktop\\bpa-205-simulation\\sim7\\areas\\admin\\controllers\\positioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B0A2986-BF8C-D4AA-3820-EC1F2C0AF4DE}|Sim7.csproj|solutionrelative:areas\\admin\\controllers\\positioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B0A2986-BF8C-D4AA-3820-EC1F2C0AF4DE}|Sim7.csproj|c:\\users\\ll novbe\\desktop\\bpa-205-simulation\\sim7\\areas\\admin\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B0A2986-BF8C-D4AA-3820-EC1F2C0AF4DE}|Sim7.csproj|solutionrelative:areas\\admin\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B0A2986-BF8C-D4AA-3820-EC1F2C0AF4DE}|Sim7.csproj|c:\\users\\ll novbe\\desktop\\bpa-205-simulation\\sim7\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B0A2986-BF8C-D4AA-3820-EC1F2C0AF4DE}|Sim7.csproj|solutionrelative:areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2B0A2986-BF8C-D4AA-3820-EC1F2C0AF4DE}|Sim7.csproj|c:\\users\\ll novbe\\desktop\\bpa-205-simulation\\sim7\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2B0A2986-BF8C-D4AA-3820-EC1F2C0AF4DE}|Sim7.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -37,14 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{2B0A2986-BF8C-D4AA-3820-EC1F2C0AF4DE}|Sim7.csproj|c:\\users\\ll novbe\\desktop\\bpa-205-simulation\\sim7\\areas\\admin\\views\\position\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2B0A2986-BF8C-D4AA-3820-EC1F2C0AF4DE}|Sim7.csproj|solutionrelative:areas\\admin\\views\\position\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B0A2986-BF8C-D4AA-3820-EC1F2C0AF4DE}|Sim7.csproj|c:\\users\\ll novbe\\desktop\\bpa-205-simulation\\sim7\\areas\\admin\\controllers\\positioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B0A2986-BF8C-D4AA-3820-EC1F2C0AF4DE}|Sim7.csproj|solutionrelative:areas\\admin\\controllers\\positioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B0A2986-BF8C-D4AA-3820-EC1F2C0AF4DE}|Sim7.csproj|c:\\users\\ll novbe\\desktop\\bpa-205-simulation\\sim7\\areas\\admin\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B0A2986-BF8C-D4AA-3820-EC1F2C0AF4DE}|Sim7.csproj|solutionrelative:areas\\admin\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2B0A2986-BF8C-D4AA-3820-EC1F2C0AF4DE}|Sim7.csproj|c:\\users\\ll novbe\\desktop\\bpa-205-simulation\\sim7\\areas\\admin\\views\\member\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -85,10 +89,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{2B0A2986-BF8C-D4AA-3820-EC1F2C0AF4DE}|Sim7.csproj|c:\\users\\ll novbe\\desktop\\bpa-205-simulation\\sim7\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B0A2986-BF8C-D4AA-3820-EC1F2C0AF4DE}|Sim7.csproj|solutionrelative:models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B0A2986-BF8C-D4AA-3820-EC1F2C0AF4DE}|Sim7.csproj|c:\\users\\ll novbe\\desktop\\bpa-205-simulation\\sim7\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B0A2986-BF8C-D4AA-3820-EC1F2C0AF4DE}|Sim7.csproj|solutionrelative:areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2B0A2986-BF8C-D4AA-3820-EC1F2C0AF4DE}|Sim7.csproj|c:\\users\\ll novbe\\desktop\\bpa-205-simulation\\sim7\\areas\\admin\\viewmodels\\position\\updatepositionvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -158,7 +158,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -166,7 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\ll novbe\\Desktop\\BPA-205-SIMULATION\\Sim7\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
@@ -179,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\ll novbe\\Desktop\\BPA-205-SIMULATION\\Sim7\\Views\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
@@ -187,12 +187,11 @@
               "RelativeToolTip": "Views\\Account\\Register.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-05T12:30:22.987Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-05T12:30:22.987Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "LoginVM.cs",
               "DocumentMoniker": "C:\\Users\\ll novbe\\Desktop\\BPA-205-SIMULATION\\Sim7\\ViewModels\\Account\\LoginVM.cs",
               "RelativeDocumentMoniker": "ViewModels\\Account\\LoginVM.cs",
@@ -204,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "RegisterVM.cs",
               "DocumentMoniker": "C:\\Users\\ll novbe\\Desktop\\BPA-205-SIMULATION\\Sim7\\ViewModels\\Account\\RegisterVM.cs",
               "RelativeDocumentMoniker": "ViewModels\\Account\\RegisterVM.cs",
@@ -216,7 +215,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\ll novbe\\Desktop\\BPA-205-SIMULATION\\Sim7\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
@@ -228,7 +227,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\ll novbe\\Desktop\\BPA-205-SIMULATION\\Sim7\\Areas\\Admin\\Views\\Member\\Create.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Member\\Create.cshtml",
@@ -240,7 +239,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Update.cshtml",
               "DocumentMoniker": "C:\\Users\\ll novbe\\Desktop\\BPA-205-SIMULATION\\Sim7\\Areas\\Admin\\Views\\Position\\Update.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Position\\Update.cshtml",
@@ -252,7 +251,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\ll novbe\\Desktop\\BPA-205-SIMULATION\\Sim7\\Areas\\Admin\\Views\\Position\\Create.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Position\\Create.cshtml",
@@ -264,7 +263,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ll novbe\\Desktop\\BPA-205-SIMULATION\\Sim7\\Areas\\Admin\\Views\\Position\\Index.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Position\\Index.cshtml",
@@ -276,31 +275,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "PositionController.cs",
               "DocumentMoniker": "C:\\Users\\ll novbe\\Desktop\\BPA-205-SIMULATION\\Sim7\\Areas\\Admin\\Controllers\\PositionController.cs",
               "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\PositionController.cs",
               "ToolTip": "C:\\Users\\ll novbe\\Desktop\\BPA-205-SIMULATION\\Sim7\\Areas\\Admin\\Controllers\\PositionController.cs",
               "RelativeToolTip": "Areas\\Admin\\Controllers\\PositionController.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAowB4AAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-05T10:43:31.632Z"
+              "WhenOpened": "2026-06-05T10:43:31.632Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
               "Title": "MemberController.cs",
               "DocumentMoniker": "C:\\Users\\ll novbe\\Desktop\\BPA-205-SIMULATION\\Sim7\\Areas\\Admin\\Controllers\\MemberController.cs",
               "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\MemberController.cs",
               "ToolTip": "C:\\Users\\ll novbe\\Desktop\\BPA-205-SIMULATION\\Sim7\\Areas\\Admin\\Controllers\\MemberController.cs",
               "RelativeToolTip": "Areas\\Admin\\Controllers\\MemberController.cs",
-              "ViewState": "AgIAAFYAAAAAAAAAAAAuwGMAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-05T10:43:23.065Z"
+              "WhenOpened": "2026-06-05T10:43:23.065Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ll novbe\\Desktop\\BPA-205-SIMULATION\\Sim7\\Areas\\Admin\\Views\\Member\\Index.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Member\\Index.cshtml",
@@ -312,7 +313,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Update.cshtml",
               "DocumentMoniker": "C:\\Users\\ll novbe\\Desktop\\BPA-205-SIMULATION\\Sim7\\Areas\\Admin\\Views\\Member\\Update.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Member\\Update.cshtml",
@@ -324,7 +325,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\ll novbe\\Desktop\\BPA-205-SIMULATION\\Sim7\\DAL\\AppDbContext.cs",
               "RelativeDocumentMoniker": "DAL\\AppDbContext.cs",
@@ -336,7 +337,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "_AdminLayout.cshtml",
               "DocumentMoniker": "C:\\Users\\ll novbe\\Desktop\\BPA-205-SIMULATION\\Sim7\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
@@ -348,7 +349,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\ll novbe\\Desktop\\BPA-205-SIMULATION\\Sim7\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\_ViewImports.cshtml",
@@ -360,7 +361,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "ImageUploadsExtensions.cs",
               "DocumentMoniker": "C:\\Users\\ll novbe\\Desktop\\BPA-205-SIMULATION\\Sim7\\Utilities\\ImageUploadsExtensions.cs",
               "RelativeDocumentMoniker": "Utilities\\ImageUploadsExtensions.cs",
@@ -372,7 +373,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "CreateMemberVM.cs",
               "DocumentMoniker": "C:\\Users\\ll novbe\\Desktop\\BPA-205-SIMULATION\\Sim7\\Areas\\Admin\\ViewModels\\Member\\CreateMemberVM.cs",
               "RelativeDocumentMoniker": "Areas\\Admin\\ViewModels\\Member\\CreateMemberVM.cs",
@@ -384,7 +385,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "UpdateMemberVM.cs",
               "DocumentMoniker": "C:\\Users\\ll novbe\\Desktop\\BPA-205-SIMULATION\\Sim7\\Areas\\Admin\\ViewModels\\Member\\UpdateMemberVM.cs",
               "RelativeDocumentMoniker": "Areas\\Admin\\ViewModels\\Member\\UpdateMemberVM.cs",
@@ -396,7 +397,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "Position.cs",
               "DocumentMoniker": "C:\\Users\\ll novbe\\Desktop\\BPA-205-SIMULATION\\Sim7\\Models\\Position.cs",
               "RelativeDocumentMoniker": "Models\\Position.cs",
@@ -408,7 +409,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "Member.cs",
               "DocumentMoniker": "C:\\Users\\ll novbe\\Desktop\\BPA-205-SIMULATION\\Sim7\\Models\\Member.cs",
               "RelativeDocumentMoniker": "Models\\Member.cs",
@@ -420,15 +421,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 2,
               "Title": "DashboardController.cs",
               "DocumentMoniker": "C:\\Users\\ll novbe\\Desktop\\BPA-205-SIMULATION\\Sim7\\Areas\\Admin\\Controllers\\DashboardController.cs",
               "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\DashboardController.cs",
               "ToolTip": "C:\\Users\\ll novbe\\Desktop\\BPA-205-SIMULATION\\Sim7\\Areas\\Admin\\Controllers\\DashboardController.cs",
               "RelativeToolTip": "Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-05T10:43:15.375Z"
+              "WhenOpened": "2026-06-05T10:43:15.375Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
