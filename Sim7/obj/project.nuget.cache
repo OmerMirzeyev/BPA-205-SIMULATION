@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vTa/cFkH3Ts=",
+  "dgSpecHash": "xEvpsAcQ2sk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ll novbe\\Desktop\\Sim7\\Sim7.csproj",
+  "projectFilePath": "C:\\Users\\ll novbe\\Desktop\\BPA-205-SIMULATION\\Sim7\\Sim7.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ll novbe\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\ll novbe\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

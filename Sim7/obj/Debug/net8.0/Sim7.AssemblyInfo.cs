@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sim7")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b03f4d4a0334df298fdedf5ecc7790b2211bfaf")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sim7")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sim7")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
