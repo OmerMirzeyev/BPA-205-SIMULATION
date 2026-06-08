@@ -1,0 +1,13 @@
+﻿@model Member 
+
+<div>
+    <div>
+        <p>@Model.Name</p>
+        <p>@Model.Surname</p>
+        <p>@Model.Description</p>
+        <p>@Model.Position.Name</p>
+    </div>
+    <div>
+        <img src="~/uploads/member/@Model.ImageUrl" class="img-responsive" alt="team img">
+    </div>
+</div>

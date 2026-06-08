@@ -1,0 +1,67 @@
+﻿@model List<Member>
+
+<div>
+    <a asp-controller="Member" asp-action="Create">Add Member</a>
+
+    <table class="table">
+        <thead class="thead-dark">
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Name</th>
+                <th scope="col">Surname</th>
+                <th scope="col">Description</th>
+                <th scope="col">Position</th>
+                <th scope="col">Image</th>
+                <th scope="col">Delete Status</th>
+                <th colspan="2">Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (Member member in Model)
+            {
+                <tr>
+                    <th scope="row">1</th>
+                    <td>@member.Name</td>
+                    <td>@member.Surname</td>
+                    <td>@member.Description</td>
+                    <td>@member.PositionId</td>
+                    <td>
+                        <img width="80px" height="80px" src="~/uploads/member/@member.ImageUrl" class="img-responsive" alt="team img">
+                    </td>
+                    <td>
+                        @if (!member.IsDeleted)
+                        {
+                            <span class="text-success">Active</span>
+                        }
+                        else
+                        {
+                            <span class="text-danger">Inactive</span>
+                        }
+                    </td>
+                    <td>
+                        <a class="btn btn-warning" asp-controller="Member" asp-action="Update" asp-route-id="@member.Id">
+                            Update
+                        </a>
+                        @if (!member.IsDeleted)
+                        {
+                            <form asp-controller="Member" asp-action="Delete" asp-route-id="@member.Id">
+                                <button type="submit" class="btn btn-danger">
+                                    Delete
+                                </button>
+                            </form>                            
+                        }
+                        else
+                        {
+                            <form asp-controller="Member" asp-action="Restore" asp-route-id="@member.Id">
+                                <button type="submit" class="btn btn-warning">
+                                    Restore
+                                </button>
+                            </form>
+                        }
+                    </td>
+                </tr>
+
+            }
+        </tbody>
+    </table>
+</div>

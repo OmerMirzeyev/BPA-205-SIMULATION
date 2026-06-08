@@ -1,0 +1,10 @@
+﻿@using Sim8.Areas.Admin.ViewModels.Position
+@model CreatePositionVM
+<form asp-controller="Position" asp-action="Create" method="post">
+    <div class="form-group">
+        <label for="Name">Name</label>
+        <input asp-for="@Model.Name" type="text" class="form-control" id="Name" placeholder="Enter Name">
+        <span class="text-danger" asp-validation-for="@Model.Name"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
